@@ -1,0 +1,23 @@
+﻿Procedure [dbo].[promoteStudents] @Studies NVARCHAR(100), @Semester INT
+as
+BEGIN
+	declare @IdStudies int = (Select IdStudy from Studies where Name=@Studies);
+	declare @OldIdEnrollment int = (Select IdEnrollment from Enrollment where IdStudy=@IdStudies and Semester=@Semester);
+	declare @NewIdEnrollment int = (Select IdEnrollment from Enrollment where IdStudy=@IdStudies and Semester=@Semester+1);
+	if(@NewIdEnrollment is null)
+	Begin
+		Set @NewIdEnrollment=(Select Max(IdEnrollment) from Enrollment)+1;	
+		insert into Enrollment(IdEnrollment, Semester, IdStudy, StartDate) 
+		values (@NewIdEnrollment,@Semester+1,@IdStudies,CURRENT_TIMESTAMP);
+	End
+
+	Update Student
+	set idEnrollment = @NewIdEnrollment
+	where idEnrollment = @OldIdEnrollment;
+	
+	SELECT Name, Semester, StartDate from Studies s, Enrollment e
+	 where s.IdStudy=e.IdStudy
+	 and e.IdEnrollment=@NewIdEnrollment;
+
+end;
+
