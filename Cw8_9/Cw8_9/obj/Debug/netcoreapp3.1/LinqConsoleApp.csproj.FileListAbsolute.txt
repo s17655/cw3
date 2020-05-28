@@ -1,0 +1,13 @@
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.exe
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.deps.json
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.json
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.dev.json
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.dll
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfoInputs.cache
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfo.cs
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.dll
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.genruntimeconfig.cache
+D:\Studia\Semestr VI\APBD\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csprojAssemblyReference.cache
