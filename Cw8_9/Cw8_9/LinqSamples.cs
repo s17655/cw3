@@ -367,8 +367,6 @@ namespace LinqConsoleApp
         /// UNION
         /// SELECT "Brak wartości", null, null;
         /// </summary>
-        /// 
-        //SzW - tu nie wiem jak przekazać nulle
         public void Przyklad10Button_Click()
         {
             var res = Emps
@@ -381,8 +379,8 @@ namespace LinqConsoleApp
                 .Select(x => new
                 {
                     Ename="Brak wartości",
-                    Job="null",
-                    HireDate = x.HireDate
+                    Job=(string) null,
+                    HireDate = (DateTime?) null
                 }))
                 .ToList();
         }
