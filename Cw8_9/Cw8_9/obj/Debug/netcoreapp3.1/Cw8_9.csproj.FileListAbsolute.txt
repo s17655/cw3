@@ -22,3 +22,4 @@ D:\Studia\Semestr VI\APBD\git\cw3\Cw8_9\Cw8_9\obj\Debug\netcoreapp3.1\Cw8_9.Asse
 D:\Studia\Semestr VI\APBD\git\cw3\Cw8_9\Cw8_9\obj\Debug\netcoreapp3.1\Cw8_9.dll
 D:\Studia\Semestr VI\APBD\git\cw3\Cw8_9\Cw8_9\obj\Debug\netcoreapp3.1\Cw8_9.pdb
 D:\Studia\Semestr VI\APBD\git\cw3\Cw8_9\Cw8_9\obj\Debug\netcoreapp3.1\Cw8_9.genruntimeconfig.cache
+D:\Studia\Semestr VI\APBD\git\cw3\Cw8_9\Cw8_9\obj\Debug\netcoreapp3.1\Cw8_9.csprojAssemblyReference.cache

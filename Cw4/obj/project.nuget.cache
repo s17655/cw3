@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LALMu7tR6DnleTIDwT5nW8w4R61QtIoRehlUFz6Yx4YxQXjNFRWTsQOFbw36fMY3nG7nJHzuQUgKsjux0Nozeg==",
+  "dgSpecHash": "dpeoYAxE8/UdtDKt7+r1zsXZqS0MSyggOHpmD6pDfsQhjpk9MtkQI4yRBPaZYqvBieg5jcI6sonaIwlvGQqVhg==",
   "success": true,
   "projectFilePath": "D:\\Studia\\Semestr VI\\APBD\\git\\cw3\\Cw4\\Cw4.csproj",
   "expectedPackageFiles": [
@@ -118,7 +118,8 @@
     "C:\\Users\\Szymon\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Users\\Szymon\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Szymon\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Szymon\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Szymon\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
