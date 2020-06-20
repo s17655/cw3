@@ -30,7 +30,7 @@ namespace Cw11
             services.AddTransient<IDbService, DoctorsContextDbService>();
             services.AddDbContext<DoctorsDbContext>(options =>
             {
-                options.UseSqlServer("Server=DESKTOP-4S302R6\\SQLEXPRESS;Database=APBD_zad11;Trusted_Connection=True");
+                options.UseSqlServer("Server=DESKTOP-4S302R6\\SQLEXPRESS;Database=APBD_kolokwium;Trusted_Connection=True");
             });
             services.AddControllers();
         }
