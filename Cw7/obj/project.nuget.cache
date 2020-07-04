@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0a4VovhXbPrN98ZhNjivbc6mss8nFlG02A3OiEf0E5uY6JX/xo7JP6IO7LOZXaoIzsPLxZv6Fc6P3A7ZRJ7kKg==",
+  "dgSpecHash": "Z/SsO2SOq6s4CXeGViv70R+k0ImyM3PL7Q6fnE9tiVuVa59UYHBGgR4It4LxUIynOLQzuo7SaXbR/D7/xDZWdg==",
   "success": true,
   "projectFilePath": "D:\\Studia\\Semestr VI\\APBD\\git\\cw3\\Cw7\\Cw7.csproj",
   "expectedPackageFiles": [
@@ -154,8 +154,7 @@
     "C:\\Users\\Szymon\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Szymon\\.nuget\\packages\\system.xml.xmldocument\\4.0.1\\system.xml.xmldocument.4.0.1.nupkg.sha512",
     "C:\\Users\\Szymon\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
-    "C:\\Users\\Szymon\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
-    "C:\\Users\\Szymon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Szymon\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
   ],
   "logs": []
 }

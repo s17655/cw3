@@ -21,7 +21,7 @@ namespace Kolokwium.Controllers
         [HttpGet("{id}")]
         public IActionResult GetArtistInfo()
             {
-                return Ok(_context.GetArtistInfo(id));
+                return Ok();
             }
 
     }

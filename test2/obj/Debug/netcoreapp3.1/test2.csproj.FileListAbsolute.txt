@@ -1,0 +1,5 @@
+D:\Studia\Semestr VI\APBD\git\cw3\test2\obj\Debug\netcoreapp3.1\test2.csprojAssemblyReference.cache
+D:\Studia\Semestr VI\APBD\git\cw3\test2\obj\Debug\netcoreapp3.1\test2.AssemblyInfoInputs.cache
+D:\Studia\Semestr VI\APBD\git\cw3\test2\obj\Debug\netcoreapp3.1\test2.AssemblyInfo.cs
+D:\Studia\Semestr VI\APBD\git\cw3\test2\obj\Debug\netcoreapp3.1\test2.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr VI\APBD\git\cw3\test2\obj\Debug\netcoreapp3.1\test2.MvcApplicationPartsAssemblyInfo.cache

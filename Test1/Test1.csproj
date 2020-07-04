@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200703205344_PodstawoweKlasy.cs" />
+    <Compile Remove="Migrations\20200703205344_PodstawoweKlasy.Designer.cs" />
+    <Compile Remove="Migrations\20200703211907_DodanePowiazania.cs" />
+    <Compile Remove="Migrations\20200703211907_DodanePowiazania.Designer.cs" />
+    <Compile Remove="Migrations\20200703212327_DodanePowiazania2.cs" />
+    <Compile Remove="Migrations\20200703212327_DodanePowiazania2.Designer.cs" />
+    <Compile Remove="Migrations\20200703212430_DodanePowiazania3.cs" />
+    <Compile Remove="Migrations\20200703212430_DodanePowiazania3.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+
+</Project>

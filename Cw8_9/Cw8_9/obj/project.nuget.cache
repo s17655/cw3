@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5JS6yp00TDBL0obqc1+xO7qvWY6YBesABEhExkPzj+dr1cxtBibo5uAjGpbgUgYolXj5cjmK6sv4PsYRfVBtNw==",
+  "dgSpecHash": "Oh1FzgPgWB5/X8QuCSTMAmUzwCbEEndpVxa4ZUiYK5qBNzVz+V4v/k21rCkyI2cZQufoZt6hLzq12HUXIyIZ5g==",
   "success": true,
   "projectFilePath": "D:\\Studia\\Semestr VI\\APBD\\git\\cw3\\Cw8_9\\Cw8_9\\Cw8_9.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Szymon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

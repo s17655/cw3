@@ -43,8 +43,13 @@ namespace Kolokwium.Services
             }).OrderBy(y => y.startDate).ToList();
 
 
-            return res;
+            return null;
             }
+
+            public IEnumerable<ArtistReposnd> getArtistInfo(int i)
+        {
+            return null;
+        }
 
         }
 }
